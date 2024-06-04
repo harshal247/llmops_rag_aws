@@ -1,0 +1,11 @@
+pandas
+huggingface
+numpy
+langchain
+langchainhub
+langchain_community
+bs4
+tiktoken
+openai
+boto3==1.34.37
+chromadb
